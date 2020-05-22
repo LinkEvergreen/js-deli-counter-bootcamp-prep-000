@@ -24,3 +24,7 @@ function ticketwheel(){
 var ticketNumber = [0]
   console.log(`Your ticket number is ${ticketnumber ++}`)
 }
+
+ticketwheel()
+ticketwheel()
+ticketwheel()
