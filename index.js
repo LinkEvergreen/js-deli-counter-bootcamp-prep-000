@@ -19,3 +19,8 @@ function currentLine(line){
     namenumber.push(`${a+1}. ${line[a]}`)
   } return `The line is currently: ${namenumber.join(', ')}`
 }
+
+function ticketwheel(){
+var ticketNumber = [0]
+  return `Your ticket number is (ticketnumber ++)
+}
