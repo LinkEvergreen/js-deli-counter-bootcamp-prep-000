@@ -21,7 +21,7 @@ function currentLine(line){
 }
 
 function ticketwheel(){
-var ticketNumber = [0]
+var ticketnumber = [0]
   console.log(`Your ticket number is ${ticketnumber ++}`)
 }
 
