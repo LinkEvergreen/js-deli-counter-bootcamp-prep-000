@@ -20,8 +20,9 @@ function currentLine(line){
   } return `The line is currently: ${namenumber.join(', ')}`
 }
 
-function ticketwheel(){
+
 var ticketnumber = 0
+function ticketwheel(){
   ticketnumber ++
   console.log(`Your ticket number is ${ticketnumber}`)
 }
