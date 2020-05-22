@@ -15,7 +15,6 @@ function currentLine(line){
     return "The line is currently empty."
   }
   var namenumber = []
-
   for (let a = 0, b = line.length; a < b; a++) {
     namenumber.push(`${a+1}. ${line[a]}`)
   } return `The line is currently: ${namenumber.join(', ')}`
